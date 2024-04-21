@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tCBb9cx4B7c8bgs8odcTOKSx3mbwDJYcTEiVcTgoxcY=",
+  "Source": "NetService",
+  "BasePath": "_content/NetService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
