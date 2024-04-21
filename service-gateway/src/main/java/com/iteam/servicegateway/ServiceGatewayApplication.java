@@ -12,7 +12,10 @@ import org.springframework.context.annotation.Configuration;
 
 @SpringBootApplication
 public class ServiceGatewayApplication {
-
+	// @Bean
+	// RouteLocator routes(RouteLocatorBuilder builder) {
+	// 	return builder.routes().route(r -> r.path("/societes/**").uri("http://localhost:8081")).build();
+	// }
 	// @Bean
 	// RouteLocator routes(RouteLocatorBuilder builder) {
 	// return builder.routes().route(r ->
