@@ -59,6 +59,18 @@
               "target": "Package",
               "version": "[6.0.6, )"
             },
+            "Steeltoe.Common.Hosting": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            },
+            "Steeltoe.Discovery.ClientCore": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d47868032ae6283f7f8d61e3d6a350c840e7d9c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01327bb69ba26bf23d73a9dda80460afd704d6e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
